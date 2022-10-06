@@ -1,0 +1,46 @@
+{
+ "sections": [
+  {
+   "id": "439d885f-f548-f7e5-9196-72d78e1a6058",
+   "title": "ESP Uploader",
+   "files": [
+    {
+     "path": "project/src/main.cpp",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain}}/project/docs/index.html",
+     "panel": 2,
+     "action": "open"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 3,
+     "action": "open"
+    }
+   ],
+   "layout": "4-cell",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/ESP-Uploader-439d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": true,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}
